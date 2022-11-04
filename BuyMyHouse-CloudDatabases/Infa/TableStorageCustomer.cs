@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infa
+namespace DAL
 {
     public class TableStorageCustomer : ITableStorage<Customer>
     {

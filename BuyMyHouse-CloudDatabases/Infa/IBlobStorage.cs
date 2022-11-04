@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infa
+namespace DAL
 {
     public interface IBlobStorage
     {
@@ -14,6 +14,6 @@ namespace Infa
         public Task<string> GetPdf(string imageReferenceName);
         public Task<bool> UploadImage(string imageReferenceName, Stream image);
         public Task<string> GetImage(string imageReferenceName);
-        
+
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "79SPP8Z5JVsRGtNE0pBDsWn1v4gqe+Sk6xkDji/akGH7dWu4i+Gf4EfTDRP369eTA7aJot/c5p3jzRfMlOWj2g==",
+  "dgSpecHash": "tv1W3tfQXmp0k1i4cQlY33tmG7WGDsXBULpadzHKYxO3eCKDy2yJeio4jybodoOV+iBxzs/bH67I1mPnGelhog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnb\\OneDrive\\Bureaublad\\BuyMyHouse-CloudDatabases\\Infa\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\johnb\\OneDrive\\Bureaublad\\Cloud-databases-assignment\\BuyMyHouse-CloudDatabases\\Infa\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnb\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\johnb\\.nuget\\packages\\azure.storage.blobs\\12.14.1\\azure.storage.blobs.12.14.1.nupkg.sha512",

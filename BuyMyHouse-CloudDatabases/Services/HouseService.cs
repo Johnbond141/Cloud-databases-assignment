@@ -9,7 +9,7 @@ using SendGrid.Helpers.Mail;
 using Domain.Model;
 using Domain.DTO;
 using Domain.Helpers;
-using Infa;
+using DAL;
 
 namespace Services
 {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infa
+namespace DAL
 {
     public interface ITableStorage<T> where T : TableEntity, new()
     {

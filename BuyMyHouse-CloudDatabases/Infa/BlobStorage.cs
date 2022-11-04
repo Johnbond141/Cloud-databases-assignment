@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infa
+namespace DAL
 {
     public class BlobStorage : IBlobStorage
     {
@@ -103,7 +103,8 @@ namespace Infa
                 throw;
             }
         }
-        public async Task ClearMortgageApplications() {
+        public async Task ClearMortgageApplications()
+        {
             try
             {
                 var cloudBlobContainer = GetContainerReference("pdf");
