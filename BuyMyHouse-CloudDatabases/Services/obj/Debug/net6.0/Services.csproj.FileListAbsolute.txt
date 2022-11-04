@@ -37,8 +37,8 @@ C:\Users\johnb\OneDrive\Bureaublad\Cloud-databases-assignment\BuyMyHouse-CloudDa
 C:\Users\johnb\OneDrive\Bureaublad\Cloud-databases-assignment\BuyMyHouse-CloudDatabases\Services\bin\Debug\net6.0\Services.pdb
 C:\Users\johnb\OneDrive\Bureaublad\Cloud-databases-assignment\BuyMyHouse-CloudDatabases\Services\bin\Debug\net6.0\DAL.dll
 C:\Users\johnb\OneDrive\Bureaublad\Cloud-databases-assignment\BuyMyHouse-CloudDatabases\Services\bin\Debug\net6.0\Domain.dll
-C:\Users\johnb\OneDrive\Bureaublad\Cloud-databases-assignment\BuyMyHouse-CloudDatabases\Services\bin\Debug\net6.0\Domain.pdb
 C:\Users\johnb\OneDrive\Bureaublad\Cloud-databases-assignment\BuyMyHouse-CloudDatabases\Services\bin\Debug\net6.0\DAL.pdb
+C:\Users\johnb\OneDrive\Bureaublad\Cloud-databases-assignment\BuyMyHouse-CloudDatabases\Services\bin\Debug\net6.0\Domain.pdb
 C:\Users\johnb\OneDrive\Bureaublad\Cloud-databases-assignment\BuyMyHouse-CloudDatabases\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
 C:\Users\johnb\OneDrive\Bureaublad\Cloud-databases-assignment\BuyMyHouse-CloudDatabases\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\johnb\OneDrive\Bureaublad\Cloud-databases-assignment\BuyMyHouse-CloudDatabases\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache

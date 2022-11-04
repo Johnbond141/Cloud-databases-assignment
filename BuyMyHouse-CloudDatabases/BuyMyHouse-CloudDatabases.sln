@@ -7,13 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{598EF56A-A032-4517-81DA-56403836CA09}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionApp-BuyMyHouse", "FunctionApp2\FunctionApp-BuyMyHouse.csproj", "{6325C369-A5AE-457E-AFBF-C796D3498CD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionApp-BuyMyHouse", "FunctionApp-BuyMyHouse\FunctionApp-BuyMyHouse.csproj", "{6325C369-A5AE-457E-AFBF-C796D3498CD8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionEmail", "FunctionEmail\FunctionEmail.csproj", "{1AD261CE-3F3A-4DE7-A883-17BC37689EA5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionTimer", "FunctionTimer\FunctionTimer.csproj", "{EB244DEB-E48F-4B56-BF2D-CFB1AF9B21D7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "Infa\DAL.csproj", "{5FEE65AC-C22E-497C-AA4A-C4F57ED9615B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{5FEE65AC-C22E-497C-AA4A-C4F57ED9615B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
